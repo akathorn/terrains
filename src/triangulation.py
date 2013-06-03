@@ -1,0 +1,6 @@
+
+def triangulate(points):
+    pass
+
+
+
